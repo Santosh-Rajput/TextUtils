@@ -7,11 +7,7 @@ import Alert from './components/Alert';
 // import About from './components/About';
 
 
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom";
+// 
 
 
  
